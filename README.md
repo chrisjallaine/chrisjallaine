@@ -76,6 +76,6 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=22&pause=1000&color=FF69B4&width=435&lines=Embracing+the+journey+of+learning+and+discovery.+%F0%9F%92%99" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=22&pause=1000&color=FF69B4&width=435&lines=Embracing+the+journey+of+discovery.+%F0%9F%92%99" alt="Typing SVG" />
 </div>
 
