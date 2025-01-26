@@ -17,7 +17,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chrisjallaine&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisjallaine&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -37,6 +36,9 @@
   <img src="https://img.icons8.com/color/48/null/sql.png" alt="SQL" />
   <img src="https://img.icons8.com/color/48/null/git.png" alt="Git" />
   <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" alt="VS Code" />
+  <img src="https://img.icons8.com/color/48/null/html-5.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/null/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/color/48/null/power-bi.png" alt="Power BI" />
 </div>
 
 ---
@@ -61,4 +63,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=22&pause=1000&color=FF69B4&width=435&lines=Aspiring+Data+Analyst+%F0%9F%A7%A9;3rd+Year+BS+Data+Science+Student+%F0%9F%8C%B8;Lifelong+Learner+%F0%9F%A7%A9;Embracing+the+journey+of+learning+and+discovery.+%F0%9F%92%99" alt="Typing SVG" />
 </div>
-
