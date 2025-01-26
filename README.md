@@ -42,11 +42,8 @@
 </div>
 
 ---
-### 📚 My Repositories
-<div align="center">
-  <img src="https://img.shields.io/github/repo-size/chrisjallaine?color=FF69B4&label=Total%20Repositories" alt="Total Repositories" />
-</div>
-
+### 🌸 My Projects
+- [**Healthy Recipes Classifier**](#) - A machine learning project classifying recipes based on nutrition.
 ---
 
 ### 🎧 Code with My Jams 🎶
