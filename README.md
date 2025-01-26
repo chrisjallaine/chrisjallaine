@@ -48,11 +48,13 @@
 
 ### 🎧 Code with My Jams 🎶
 <div align="center">
-  <a href="https://open.spotify.com/playlist/0limwyQpFvUUYY0f5qgdLH?si=16ad1e65f5ae45c4">
+  <a href="https://open.spotify.com/playlist/0limwyQpFvUUYY0f5qgdLH?si=16ad1e65f5ae45c4" target="_blank">
     <img src="https://img.icons8.com/color/48/spotify.png" alt="Spotify" />
+    <br/>
+    <span>Listen to my playlist here!</span>
   </a>
-  <span>Listen to my playlist here!</span>
 </div>
+
 
 
 ---
