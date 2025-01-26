@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://img.icons8.com/pastel-glyph/64/null/woman-programmer--v1.png" alt="coder-icon"/>
+  <img src="https://i.ibb.co/30vMvjQ/Header.png" alt="coder-icon"/>
   <h1 align="center" style="color:#FFB6C1;">Hi there! 💖</h1>
   <p style="font-size:18px;color:#FF69B4;">
-    I'm Chris Jallaine, a 3rd-year BS Data Science student passionate about data science, arts, and leadership. 🎨📊
+    I'm Chris Jallaine, a 3rd-year BS Data Science student passionate about data science, arts, and business. 🎨📊
   </p>
 </div>
 
@@ -15,6 +15,12 @@
 
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chrisjallaine&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisjallaine&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
 
 ### 💖 Hobbies and Interests
 - 🎨 Paintint.
