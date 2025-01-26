@@ -42,9 +42,10 @@
 </div>
 
 ---
-
-### 🌸 My Projects
-- [**Healthy Recipes Classifier**](#) - A machine learning project classifying recipes based on nutrition.
+### 📚 My Repositories
+<div align="center">
+  <img src="https://badges.pufler.dev/repos/chrisjallaine" alt="Total Repositories" />
+</div>
 
 ---
 
@@ -54,9 +55,18 @@
 ---
 
 ### 📲 Let's Connect!
-- [LinkedIn](https://ph.linkedin.com/in/chrisjallainemugot)
-- Email: [chrisjallaine.mugot@1.ustp.edu.ph](mailto:chrisjallaine.mugot@1.ustp.edu.ph)
-- [Instagram](https://www.instagram.com/chaiisua/)
+<div align="center">
+  <a href="https://ph.linkedin.com/in/chrisjallainemugot">
+    <img src="https://img.icons8.com/ios/50/null/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="mailto:chrisjallaine.mugot@1.ustp.edu.ph">
+    <img src="https://img.icons8.com/ios/50/null/email.png" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/chaiisua/">
+    <img src="https://img.icons8.com/ios/50/null/instagram-new.png" alt="Instagram" />
+  </a>
+</div>
+
 
 ---
 
