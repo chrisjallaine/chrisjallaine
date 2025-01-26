@@ -44,7 +44,7 @@
 ---
 ### 📚 My Repositories
 <div align="center">
-  <img src="https://badges.pufler.dev/repos/chrisjallaine" alt="Total Repositories" />
+  <img src="https://img.shields.io/github/repo-size/chrisjallaine?color=FF69B4&label=Total%20Repositories" alt="Total Repositories" />
 </div>
 
 ---
@@ -71,5 +71,6 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=22&pause=1000&color=FF69B4&width=435&lines=Aspiring+Data+Analyst+%F0%9F%A7%A9;3rd+Year+BS+Data+Science+Student+%F0%9F%8C%B8;Lifelong+Learner+%F0%9F%A7%A9;Embracing+the+journey+of+learning+and+discovery.+%F0%9F%92%99" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=22&pause=1000&color=FF69B4&width=435&lines=Embracing+the+journey+of+learning+and+discovery.+%F0%9F%92%99" alt="Typing SVG" />
 </div>
+
