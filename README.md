@@ -44,6 +44,7 @@
 ---
 ### 🌸 My Projects
 - [**Healthy Recipes Classifier**](#) - A machine learning project classifying recipes based on nutrition.
+
 ---
 
 ### 🎧 Code with My Jams 🎶
@@ -54,8 +55,6 @@
     <span>Listen to my playlist here!</span>
   </a>
 </div>
-
-
 
 ---
 
@@ -72,10 +71,18 @@
   </a>
 </div>
 
-
 ---
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=22&pause=1000&color=FF69B4&width=435&lines=Embracing+the+journey+of+discovery.+%F0%9F%92%99" alt="Typing SVG" />
 </div>
 
+---
+
+### 📂 My GitHub Repositories
+
+Here are the current number of repositories I have:
+
+<div align="center">
+  <img src="https://badges.pufler.dev/repos/chrisjallaine" alt="GitHub Repos Count" />
+</div>
