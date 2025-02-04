@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=FF69B4&text=Welcome%20to%20Chris%20Workspace!&desc=A%20Passionate%20BS%20Data%20Science%20Student&fontAlignY=35&descAlignY=53&animation=fadeIn&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=FF69B4&text=Chris%20Workspace!&desc=A%20Passionate%20BS%20Data%20Science%20Student&fontAlignY=35&descAlignY=53&animation=fadeIn&descSize=20"/>
 </p>
 
 ---
 
-## 🌸 About Me
+## 🌸 About Me  
 🎓 **3rd-Year BS Data Science Student**  
 📊 **Aspiring Data & Business Analyst**  
 🌱 **Currently learning Advanced Machine Learning**  
@@ -12,15 +12,15 @@
 
 ---
 
-## 🖌️ Hobbies & Interests
-- 🎨 **Painting & Digital Art**
-- 🎵 **RnB & K-Pop Enthusiast**
-- 📚 **Reading Inspirational Books**
-- 📊 **Exploring Data Visualization Tools**
+## 🖌️ Hobbies & Interests  
+🎨 **Painting & Digital Art**  
+🎵 **RnB & K-Pop Enthusiast**  
+📚 **Reading Inspirational Books**  
+📊 **Exploring Data Visualization Tools**  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,mysql,git,vscode,html,css,r" alt="Skills" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" alt="Power BI" />
@@ -28,7 +28,7 @@
 
 ---
 
-## 🎨 Design Tools
+## 🎨 Design Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   <img src="https://img.icons8.com/color/48/canva.png" alt="Canva" />
@@ -36,13 +36,13 @@
 
 ---
 
-## 💡 Featured Project
+## 💡 Featured Project  
 📌 [**Healthy Recipes Classifier**](#)  
 A **machine learning model** that classifies recipes based on **nutritional value**.
 
 ---
 
-## 🎧 Code with My Jams 🎶
+## 🎧 Code with My Jams 🎶  
 <p align="center">
   <a href="https://open.spotify.com/playlist/02HZbT8HJdMcgYVA0eZgsy?si=16428138488a4060" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" height="48" alt="Spotify" />
@@ -53,7 +53,7 @@ A **machine learning model** that classifies recipes based on **nutritional valu
 
 ---
 
-## 📲 Let's Connect!
+## 📲 Let's Connect!  
 <p align="center">
   <a href="https://ph.linkedin.com/in/chrisjallainemugot">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
@@ -68,17 +68,15 @@ A **machine learning model** that classifies recipes based on **nutritional valu
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Overview  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrisjallaine&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisjallaine&theme=tokyonight" alt="GitHub Streak Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisjallaine&theme=tokyonight" alt="Profile Summary"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjallaine&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chrisjallaine&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisjallaine&theme=tokyonight" alt="GitHub Streak Stats" width="48%"/>
 </p>
-
----
-
-## ⏳ Weekly Coding Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chrisjallaine&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisjallaine&theme=tokyonight" alt="Profile Summary" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjallaine&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/repositories/chrisjallaine?color=ff69b4&label=Total%20Repositories&logo=github&style=for-the-badge" alt="Total Repositories"/>
 </p>
