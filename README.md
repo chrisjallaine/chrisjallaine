@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=FF69B4&text=Chris%20Workspace!&desc=A%20Passionate%20BS%20Data%20Science%20Student&fontAlignY=35&descAlignY=53&animation=fadeIn&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=FF69B4&text=Chris%20Workspace!&fontAlignY=35&animation=fadeIn"/>
 </p>
+
 
 ---
 
