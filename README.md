@@ -11,40 +11,24 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrisjallaine&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisjallaine&theme=tokyonight" alt="GitHub Streak Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisjallaine&theme=tokyonight" alt="Profile Summary"/>
-</div>
-
----
-
 ## 💖 Hobbies and Interests
 - 🎨 Painting.
 - 🎵 Listening to RnB and K/Pop music.
-- 📖 Reading inspirational books.
+- 📚 Reading inspirational books.
 - ✨ Exploring fun data visualization tools.
 
 ---
 
 ## 💻 Languages & Tools
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="48" alt="Tableau" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="48" alt="R" />
+  <img src="https://skillicons.dev/icons?i=python,js,mysql,git,vscode,html,css,powerbi,r" alt="Skills" />
 </div>
 
 ---
 
 ## 🎨 Design Tools
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   <img src="https://img.icons8.com/color/48/canva.png" alt="Canva" />
 </div>
 
@@ -69,20 +53,29 @@
 ## 📲 Let's Connect!
 <div align="center">
   <a href="https://ph.linkedin.com/in/chrisjallainemugot">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
   </a>
   <a href="mailto:chrisjallaine.mugot@1.ustp.edu.ph">
     <img src="https://img.icons8.com/ios-filled/50/null/email.png" alt="Email" />
   </a>
   <a href="https://www.instagram.com/chaiisua/">
-    <img src="https://img.icons8.com/fluency/48/threads.png" height="48" alt="Threads" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" />
   </a>
 </div>
 
 ---
 
-## 📂 My GitHub Overview
-
+## 🗂 My GitHub Overview
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chrisjallaine&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisjallaine&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisjallaine&theme=tokyonight" alt="Profile Summary"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjallaine&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
+## 🕒 Weekly Coding Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chrisjallaine&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
 </div>
