@@ -80,5 +80,3 @@ A **machine learning model** that classifies recipes based on **nutritional valu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjallaine&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/repositories/chrisjallaine?color=ff69b4&label=Total%20Repositories&logo=github&style=for-the-badge" alt="Total Repositories"/>
-</p>
