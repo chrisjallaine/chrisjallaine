@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=FF69B4&text=Chris%20Workspace!&fontAlignY=35&animation=fadeIn"/>
 </p>
 
-
 ---
 
 ## 🌸 About Me  
@@ -25,6 +24,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,mysql,git,vscode,html,css,r" alt="Skills" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" alt="Power BI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/QGIS_logo_minimal.svg" height="48" alt="QGIS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="48" alt="Pandas" />
 </p>
 
 ---
