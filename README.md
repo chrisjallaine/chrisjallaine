@@ -24,9 +24,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,mysql,git,vscode,html,css,r" alt="Skills" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" alt="Power BI" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/QGIS_logo.svg" height="48" alt="QGIS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" height="48" alt="QGIS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="48" alt="Pandas" />
 </p>
+
 ---
 
 ## 🎨 Design Tools  
