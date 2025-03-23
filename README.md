@@ -51,7 +51,7 @@ Check out the live demo: [KDramaLibrary Demo](https://k-drama-library-hybk2kz5z-
 
 ## 🎧 Code with My Jams 🎶  
 <p align="center">
-  <a href="https://open.spotify.com/playlist/1mQnBoQ3td4J3Hr7WWI8o0?si=IRlW6ANHTj-bAntXBEqShg&pi=HQnRI2G7TJKPs&nd=1&dlsi=12b6c6108419420d" target="_blank">
+  <a href="https://open.spotify.com/playlist/1mQnBoQ3td4J3Hr7WWI8o0?si=zldDwZe2RQiVyeqtXR_Kuw" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" height="48" alt="Spotify" />
     <br/>
     <span>Listen to my playlist here!</span>
