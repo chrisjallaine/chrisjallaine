@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=FF4191&text=Workspace!&fontAlignY=35&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=FF4191&text=chrisjallaine!&fontAlignY=35&animation=fadeIn"/>
 </p>
 
 ---
@@ -37,18 +37,6 @@
 </p>
 
 ---
-
-## 💡 Featured Projects  
-
-### 📌 [**Healthy Recipes Classifier**](#)  
-A **machine learning model** that classifies recipes based on **nutritional value**.
-
-### 📌 [**KDramaLibrary**](https://k-drama-library-hybk2kz5z-chrisjallaines-projects.vercel.app/)  
-A web application designed for K-Drama fans to explore and discover their favorite K-Dramas. It uses **JavaScript**, **CSS**, and **HTML** for a smooth and interactive experience.  
-Check out the live demo: [KDramaLibrary Demo](https://k-drama-library-hybk2kz5z-chrisjallaines-projects.vercel.app/)
-
----
-
 ## 🎧 Code with My Jams 🎶  
 <p align="center">
   <a href="https://open.spotify.com/playlist/1mQnBoQ3td4J3Hr7WWI8o0?si=zldDwZe2RQiVyeqtXR_Kuw" target="_blank">
