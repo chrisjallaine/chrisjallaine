@@ -14,9 +14,9 @@
 
 ## 🖌️ Hobbies & Interests  
 🎨 **Painting & Digital Art**  
-🎵 **RnB & K-Pop Enthusiast**  
-📚 **Reading Inspirational Books**  
-📊 **Exploring Data Visualization Tools**  
+🎵 **RnB & K-Pop**  
+📚 **Reading Books**  
+📊 **Data Visualization**  
 
 ---
 
