@@ -1,14 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=FF4191&text=chrisjallaine.&fontAlignY=35&animation=fadeIn"/>
-</p>
-
 ---
 
-## 🌸 About Me  
-🎓 **3rd-Year BS Data Science Student**  
+## 🌸 Chris Jallaine.
+🎓 **4th-Year BS Data Science Student**  
 📊 **Aspiring Data & Business Analyst**  
-🌱 **Currently learning Advanced Machine Learning**  
-🎨 **Loves Music, Art, and Data Storytelling**  
 
 ---
 
